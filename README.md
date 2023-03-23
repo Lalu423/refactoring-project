@@ -10,7 +10,7 @@ I was given the task to refactor the starter code to utitlize semantic HTML elem
 
 [Link to Repo](https://github.com/Lalu423/refactoring-project)
 
-[Link to Site] (https://lalu423.github.io/refactoring-project/)
+[Link to Site](https://lalu423.github.io/refactoring-project/)
 
 ## License
 
