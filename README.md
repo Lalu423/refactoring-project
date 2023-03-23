@@ -6,7 +6,7 @@ I was given the task to refactor the starter code to utitlize semantic HTML elem
 
 ## Usage example
 
-<img src="http://github.com/lalu423/refactoring-project/blob/main/assets/images/horiseon_refactor_sample.jpg" height="500" width="500"/>
+<img src="http://github.com/lalu423/refactoring-project/blob/main/assets/images/horiseon_refactor_sample.JPG" width="500"/>
 
 [Link to Repo](https://github.com/Lalu423/refactoring-project)
 
